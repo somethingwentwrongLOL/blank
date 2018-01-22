@@ -1,0 +1,5 @@
+creating a github account
+learnt the basics of python
+learnt addition,subtraction and multiplication
+learnt to use shell and editor window
+learnt to use the int and float commands
